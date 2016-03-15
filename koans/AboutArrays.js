@@ -1,6 +1,8 @@
 describe("About Arrays", function() {
 
 //edit to test for github upload
+//edit again
+//edited js koans
 
   //We shall contemplate truth by testing reality, via spec expectations.  
   it("should create arrays", function() {
